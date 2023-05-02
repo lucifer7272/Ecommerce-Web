@@ -8,4 +8,4 @@ Steps to run this project
 
 3. start the server - "To start the server type (nodemon app.js) in the terminal of the server folder" - "If the server does not start, then write (node app.js) on the terminal of the server folder".
 
-4. start the reat app "npm start".
+4. start the react app "npm start".
