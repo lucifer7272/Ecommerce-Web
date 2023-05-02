@@ -1,4 +1,4 @@
-# Amazon-Clone
+# Amazon-Clone by Sahil Goswami
 
 Steps to run this project
 
